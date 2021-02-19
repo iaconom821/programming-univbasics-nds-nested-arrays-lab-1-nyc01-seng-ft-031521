@@ -21,8 +21,6 @@ def assembled_matrix
 end
 
 def sorted_matrix
-  new_convent = CONVENTIONAL_PRODUCE.sort
-  new_organic = 
   produce_array = [CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort]
 end
 
